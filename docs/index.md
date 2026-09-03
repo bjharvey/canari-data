@@ -8,7 +8,7 @@ Basic properties and the experiment design of this Large Ensemble are described 
 ### Priority and derived output on JASMIN CANARI group workspace
 
 A subset of the complete output is retrieved from the JASMIN Elastic Tape to this location:
-`/gws/nopw/j04/canari/shared/large-ensemble/priority`.
+`/gws/ssde/j25b/canari/shared/large-ensemble/priority`.
 The available priority variables are listed [here](/metadata/20240303-canari-le-priority-variables.xlsx); the spreadsheet contains:
   - the priority UMatmos variables, 
   - priority NEMO variables ("Priority 1" monthly and 2D daily only), and
@@ -17,7 +17,7 @@ The available priority variables are listed [here](/metadata/20240303-canari-le-
 **Note:** an unfortunate change in the names of four variables occurred during the HIST2 runs. The spreadsheet referenced above details the variable naming for the currently extracted ensemble members and indicates where the names switch. Variable naming is consistent within an ensmeble member.
 
 
-Alongside the `priority` directory, derived diagnostics are shared by the CANARI community, and you are encouraged to share your own in an appropriate location, e.g., adding to `/gws/nopw/j04/canari/shared/large-ensemble/derived`. Management of this shared space is very light-touch, and **different users can write** to it, so please make sure you either keep a private copy of your data for small datasets, or that you can easily reproduce these derived diagnostics should the need arise.
+Alongside the `priority` directory, derived diagnostics are shared by the CANARI community, and you are encouraged to share your own in an appropriate location, e.g., adding to `/gws/ssde/j25b/canari/shared/large-ensemble/derived`. Management of this shared space is very light-touch, and **different users can write** to it, so please make sure you either keep a private copy of your data for small datasets, or that you can easily reproduce these derived diagnostics should the need arise.
 
 ### Full output on the JASMIN Elastic Tape
 
@@ -27,7 +27,7 @@ Variables not contained in the priority output can be retrieved from the JASMIN 
 
 ### Ancillary files
 
-Commonly used ancillary files, such as for the land fraction and orography, are available at `/gws/nopw/j04/canari/shared/large-ensemble/ancil`.
+Commonly used ancillary files, such as for the land fraction and orography, are available at `/gws/ssde/j25b/shared/large-ensemble/ancil`.
 
 ## CANARI SSP3-7.0 Production Suites
 
