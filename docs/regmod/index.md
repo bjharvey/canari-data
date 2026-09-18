@@ -14,11 +14,11 @@ where `YYYYMMDD` is the date and `X` is one of `W` (wind events) or `P` (precipi
 
 Simulations are grouped into batches ("run lists") as follows:
 
-* CANARI-RM_WindStorms-HIST2[runlists/CANARI-RM_WindStorms-HIST2.txt]
-* CANARI-RM_WindStorms-SSP370[runlists/CANARI-RM_WindStorms-SSP370.txt]
-* CANARI-RM_PrecipStormsUKIR[runlists/CANARI-RM_PrecipStormsUKIR.txt]
-* CANARI-RM_PrecipStormsWidespreadFloods[runlists/CANARI-RM_PrecipStormsWidespreadFloods.txt]
-* CANARI-RM_PrecipStormsSummer[runlists/CANARI-RM_PrecipStormsWidespreadFloods.txt]
+* [CANARI-RM_WindStorms-HIST2](runlists/CANARI-RM_WindStorms-HIST2.txt)
+* [CANARI-RM_WindStorms-SSP370](runlists/CANARI-RM_WindStorms-SSP370.txt)
+* [CANARI-RM_PrecipStormsUKIR](runlists/CANARI-RM_PrecipStormsUKIR.txt)
+* [CANARI-RM_PrecipStormsWidespreadFloods](runlists/CANARI-RM_PrecipStormsWidespreadFloods.txt)
+* [CANARI-RM_PrecipStormsSummer](runlists/CANARI-RM_PrecipStormsWidespreadFloods.txt)
 
 ## Accessing the output
 
