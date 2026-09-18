@@ -30,7 +30,7 @@ Commonly used ancillary files, such as for the land fraction and orography, are 
 
 ### Regional simulations
 
-For information on the CANARI regional storm simulations, see [here](/regmod/index.md).
+For information on the CANARI regional storm simulations, see [here](regmod/index.md).
 
 ## CANARI SSP3-7.0 Production Suites
 
