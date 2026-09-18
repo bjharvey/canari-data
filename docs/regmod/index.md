@@ -20,6 +20,11 @@ Simulations are grouped into batches ("run lists") as follows:
 * [CANARI-RM_PrecipStormsWidespreadFloods](runlists/CANARI-RM_PrecipStormsWidespreadFloods.txt)
 * [CANARI-RM_PrecipStormsSummer](runlists/CANARI-RM_PrecipStormsWidespreadFloods.txt)
 
+## Quicklook galleries
+
+Quicklook plots from the regional simulations are available 
+[here](https://gws-access.jasmin.ac.uk/public/canari/storms/downscaling_galleries)
+
 ## Accessing the output
 
 ### Priority output on JASMIN CANARI group workspace
@@ -47,8 +52,3 @@ Some example NDLS commands: *Note: the use of wildcards is currently unavailable
 ### Ancillary files
 
 The model ancillary files are available at `/gws/ssde/j25b/shared/regional/ancil`
-
-## Quicklook galleries
-
-Quicklook plots from the regional simulations are available 
-[here](https://gws-access.jasmin.ac.uk/public/canari/storms/downscaling_galleries)
